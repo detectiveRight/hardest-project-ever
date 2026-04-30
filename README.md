@@ -7,7 +7,7 @@
 It says:
 
 ```
-hello world
+Hello World!
 ```
 
 Yes. That's it.
@@ -26,14 +26,14 @@ Yes. That's it.
 
 1. Open it
 2. Run it
-3. It says `hello world`
+3. It says `Hello World!`
 4. You're done
 
 ---
 
 ## License
 
-Copyright © 2024 detectiveRight
+Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
 
 
 
