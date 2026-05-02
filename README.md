@@ -37,7 +37,7 @@ Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
 
 
 
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) — because even hello world deserves legal protection.
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) — because even Hello World! deserves legal protection.
 
 ---
 
