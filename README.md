@@ -37,6 +37,14 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ---
 
+## 👤 Author
+
+**detectiveRight**
+- GitHub: [@detectiveRight](https://github.com/detectiveRight)
+
+
+---
+
 ## License
 
 Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
