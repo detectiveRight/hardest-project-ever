@@ -1,5 +1,5 @@
 
 
-#   mimi is a nice cat 🐱
+# mimi is a nice cat 🐱
 
 print("Hello World!")
